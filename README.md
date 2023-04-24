@@ -10,4 +10,4 @@
 
 # Решение
 Подходом к решению задачи я "вдохновился" главой из учебника <code>[huggingface QA][1]
-  [1]: https://huggingface.co/learn/nlp-course/chapter7/7?fw=pt</code>.
+  [1]: https://huggingface.co/learn/nlp-course/chapter7/7?fw=pt "https://huggingface.co/learn/nlp-course/chapter7/7?fw=pt"</code>.
