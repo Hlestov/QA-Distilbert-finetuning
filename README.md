@@ -15,6 +15,6 @@
   
 В EDA я обучал токенайзер под задачу, и он действительно лучше разбивал предложение на слова, однако на практике оказалось, что обученный токенайзер все портит, поэтому я использовал базовый.
 
-Веса обученной модели можно найти на <code>[huggingface](GeorgeKhlestov/distilbert_finetuned)</code>
+Веса обученной модели можно найти на <code>[huggingface](https://huggingface.co/GeorgeKhlestov/distilbert_finetuned)</code>
 
 
