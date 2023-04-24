@@ -17,4 +17,6 @@
 
 Веса обученной модели можно найти на <code>[huggingface](https://huggingface.co/GeorgeKhlestov/distilbert_finetuned)</code>
 
+Итоговое accuracy~0.83
+
 
