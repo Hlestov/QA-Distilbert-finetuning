@@ -1,4 +1,5 @@
 # Задача
+Код обучения модели также доступен в google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hlestov/QA-Distilbert-finetuning/blob/main/TrainingDistilBERT.ipynb?authuser=2)
 
 В данном проекте я сделал модель, которая помогает извлекать нужный фрагмент текста по соответствующему запросу.  
   
